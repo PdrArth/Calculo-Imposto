@@ -1,6 +1,6 @@
 # Calculo-Imposto
 
-cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do
+Cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do
 salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o
 FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é
 a empresa que deposita). O Salário Líquido corresponde ao Salário
@@ -12,6 +12,7 @@ o Salário Bruto até 1500 (inclusive) - desconto de 5%
 o Salário Bruto até 2500 (inclusive) - desconto de 10%
 o Salário Bruto acima de 2500 - desconto de 20% 
 Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exemplo o valor da hora é 5 e a quantidade de hora é 220.
+
 Salário Bruto: (5 * 220) : R$ 1100,00
 (-) IR (5%) : R$ 55,00
 (-) INSS ( 10%) : R$ 110,00
